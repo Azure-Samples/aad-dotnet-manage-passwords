@@ -1,0 +1,2 @@
+C:\Sources\dotnet-samples\aad-dotnet-manage-passwords\bin\Debug\netstandard1.6\ManageServicePrincipalCredentails.deps.json
+C:\Sources\dotnet-samples\aad-dotnet-manage-passwords\obj\Debug\netstandard1.6\ManageServicePrincipalCredentails.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Sources\dotnet-samples\aad-dotnet-manage-passwords\bin\Debug\net452\ManageServicePrincipalCredentails.runtimeconfig.json
+C:\Sources\dotnet-samples\aad-dotnet-manage-passwords\bin\Debug\net452\ManageServicePrincipalCredentails.runtimeconfig.dev.json
+C:\Sources\dotnet-samples\aad-dotnet-manage-passwords\obj\Debug\net452\ManageServicePrincipalCredentails.csproj.ManageServicePrincipalCredentails.exe.config
+C:\Sources\dotnet-samples\aad-dotnet-manage-passwords\obj\Debug\net452\ManageServicePrincipalCredentails.csproj.CoreCompileInputs.cache
